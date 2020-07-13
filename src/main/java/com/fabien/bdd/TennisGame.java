@@ -1,3 +1,5 @@
+package com.fabien.bdd;
+
 public class TennisGame {
     private int scorePlayer1;
     private int scorePlayer2;
